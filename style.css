@@ -1,0 +1,115 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+#user-info{
+    display:inline;
+    text-decoration: none;
+}
+#off{
+    background-image: url(images/Myntra.png);
+    background-size: cover; 
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    width: 100%; /* Adjust the width of the div */
+    height: 400px;
+}
+.mainoff {
+   
+   
+    width:100px;
+}
+.mainoff p{
+   
+    color:azure;
+    margin-left: 500px;
+    padding-top: 150px;
+    padding-left: 150px;
+  
+    width:400px;
+    font-size: 30px;
+    font-weight: 350px;
+
+}
+.mainoff p span{
+    color:goldenrod;
+    font-size:45px;
+    font-weight: 800;
+}
+#coupons{
+    color:aquamarine;
+    font-family:cursive;
+    font-size:50px;
+    padding-top: 20px;
+}
+.flat1{
+    background-color: rgb(238, 136, 63);
+   display: inline-block;
+   margin: 20px;
+   width:700px;
+}
+.flat1 h4{
+    color: azure;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+}
+.flat1 p{
+    color:white;
+    padding-left:20px ;
+}
+.flat1 h5{
+    color: azure;
+    text-align: center;
+}
+#bragb100{
+    background-color: azure;
+    color: blue;
+    text-transform: uppercase;
+    width: 180px;
+    font-size:30px;
+    
+    margin-left:90px;
+}
+.card-body h5{
+    font-weight:500;
+    text-align: center;
+    font-size: 15px;
+}
+.card-body p{
+    
+    font-weight: bolder;
+    font-size: 21px;
+}
+.card-body a{
+    text-decoration: none;
+    color: azure;
+    font-weight:25px;
+   margin-left: 20px;
+}
+#category{
+    color:rgb(39, 39, 153);
+    text-transform: capitalize;
+    font-size:50px;
+    text-align: center;
+    padding: 25px;
+}
+
+
+.foothead{
+    font-size: small;
+    margin: 20px;
+}
+.footlist li{
+    list-style: none;
+}
+.footlist li a{
+    text-decoration: none;
+    color:gray;
+}
+i{
+    color:gray;
+    font-size:30px;
+}
